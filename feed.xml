@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+  <channel>
+
+    <title>Hanapha JavaScript Obfuscator</title>
+    <link>https://tools.hanapha.com/javascript-obfuscator</link>
+
+    <description>
+      Free online JavaScript obfuscator tool to protect and obfuscate JavaScript source code instantly in your browser.
+    </description>
+
+    <language>en-us</language>
+
+    <item>
+      <title>JavaScript Obfuscator</title>
+      <link>https://tools.hanapha.com/javascript-obfuscator</link>
+      <description>
+        Obfuscate and protect JavaScript code online quickly and easily.
+      </description>
+    </item>
+
+  </channel>
+
+</rss>

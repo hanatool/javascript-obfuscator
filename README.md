@@ -5,6 +5,5 @@ JavaScript Obfuscator is a tool that converts readable JavaScript code into an u
 ![alt screenshot](image.png)
 
 ## Web:
-
-https://tools.hanapha.com/javascriptobfuscator/
+🔗 https://tools.hanapha.com/javascript-obfuscator/
 
